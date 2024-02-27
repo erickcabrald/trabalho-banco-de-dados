@@ -1,5 +1,5 @@
 # trabalho-banco-de-dados
-## Creditod: Romulo, João guilherme, Erick Cabral e gabriel marinho.
+## Creditos: Romulo, João guilherme, Erick Cabral e gabriel marinho.
 
 ## Relações:
   # Cliente-Remessa: 1-n
